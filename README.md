@@ -25,3 +25,4 @@ This project involves:
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
+👋 Hi, I'm Rakesh Chary Bangaroj, a passionate Data Scientist and Machine Learning Engineer currently pursuing my Master of Science in Computer Science at the University of Houston. With a strong foundation in computer science and hands-on experience in both industry and research, I aim to solve complex problems using data-driven approaches and cutting-edge technologies.
